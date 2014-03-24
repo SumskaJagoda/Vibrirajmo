@@ -28,4 +28,5 @@ I2CDevice *i2cptr = new I2CDevice(1,DEVICE1_ADDR);
 	cout << "RADII! :D:D" << endl; // znak da radi :D
 	delete i2cptr;
 	return 0;
+	// konju!
 }
